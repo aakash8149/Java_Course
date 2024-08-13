@@ -1,9 +1,9 @@
 # Java_Course
 
 - 👋 Hi, I’m @aakash8149
-- 👀 I’m interested in ... Web Development & Android Development.
-- 🌱 I’m currently learning ... Java and C++
-- 💞️ I’m looking to collaborate on ... Microsoft
+- 👀 I’m interested in ... Web Development & DS, AI-ML.
+- 🌱 I’m currently learning ... Java and Python
+- 💞️ I’m looking to collaborate on ... Linkedin
 - 📫 How to reach me ... LinkedIn ID: https://www.linkedin.com/in/aakash8149/
 
 <!---
